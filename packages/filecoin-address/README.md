@@ -3,7 +3,7 @@
 This is a JS implementation of the Filecoin address type, inspired by [go-address](https://github.com/filecoin-project/go-address). It can create new address instances and encode addresses, and it takes care of decoding and validating checksums.
 
 ## Install
-
+fork from @glif/filecoin-address
 `npm i @glif/filecoin-address`
 
 ## Usage
